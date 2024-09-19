@@ -5,8 +5,8 @@
 <br/><br/>
 
 - :city_sunrise: I’m currently working on:<br/>Making real estate energy smart with digital twins powered by [Eclipse Ditto](https://github.com/eclipse-ditto/ditto)
-- :factory: for [beyonnex.io](https://github.com/beyonnex-io), I not only build up their IoT platform, I also contribute to Eclipse Ditto as project lead and main committer
-- :boat: I am from :de:, living at beatiful lake constance
+- :factory: for [beyonnex.io](https://github.com/beyonnex-io), I build up an IoT platform and by doing so, also contribute featueres back to Eclipse Ditto as project lead and main committer
+- :boat: I am from :de:, living at beautiful lake constance
 
 <!--
 **thjaeckle/thjaeckle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
